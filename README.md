@@ -32,5 +32,3 @@ PyError Analyzer is a simple Python mini project designed to help beginners unde
 ## Purpose
 This project was created to practise Python programming and help beginners learn about common coding errors.
 
-## Author
-Nandaki Kalluri
